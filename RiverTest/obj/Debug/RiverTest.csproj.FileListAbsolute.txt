@@ -1,0 +1,6 @@
+c:\users\emmanuel.bright\Documents\Visual Studio 2015\Projects\RiverTest\RiverTest\bin\Debug\RiverTest.exe.config
+c:\users\emmanuel.bright\Documents\Visual Studio 2015\Projects\RiverTest\RiverTest\obj\Debug\RiverTest.csprojResolveAssemblyReference.cache
+c:\users\emmanuel.bright\Documents\Visual Studio 2015\Projects\RiverTest\RiverTest\bin\Debug\RiverTest.exe
+c:\users\emmanuel.bright\Documents\Visual Studio 2015\Projects\RiverTest\RiverTest\bin\Debug\RiverTest.pdb
+c:\users\emmanuel.bright\Documents\Visual Studio 2015\Projects\RiverTest\RiverTest\obj\Debug\RiverTest.exe
+c:\users\emmanuel.bright\Documents\Visual Studio 2015\Projects\RiverTest\RiverTest\obj\Debug\RiverTest.pdb
